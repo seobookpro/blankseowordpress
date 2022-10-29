@@ -1,16 +1,16 @@
-# BlankWordPress
+# BlankWordPress Beta 1.92
 Blank WordPress Template Beta Version
-Blank SEO WordPress Framework Beta Version v 1.42
+Blank SEO WordPress Framework Beta Version v 1.92
 
 The Beta Version of Blank SEO currently has
 more than >40 Custom Functions
 that are tested and are in in debugging mode. I have started the project road map back in to 2010 and till now all i did before write the Blank SEO Framework Code is only to add ideas, Notes, documentations and a lot of testing projects before the full architecture of the idea of SEO Book Pro WordPress Framework comes to live. This is Webmaster Experience that was never been done till now and you may have some difficulty to understand all the functionality, ideas and how the Framework is build especially if you are not an experienced Web Developer. This is ok if you want to give a test on the current Beta version and have no coding skills and lot of experience with the WordPress websites and their Templates, Plugins and custom functions you can register your own FREE website with us and get the FREE bonuses we give to all our Beta Demo Testers. What you will get when you Register a FREE Website in Blank WordPress Store?
 Blank WordPress Template Beta Version Update
 SEO Book Pro Latest Project comes to
-Beta Version v 1.31
+Beta Version v 1.92
 Here is the Example part of the main Theme Root Folder and Internal Folders and Files
 
-    Blank SEO WordPress Framework – Beta v 1.42
+    Blank SEO WordPress Framework – Beta v 1.92
     Live Editor WordPress
     WordPress Customizer
     WordPress Blank Template
@@ -77,7 +77,7 @@ Custom Single Page Multiple Features and Page Option Settings
     Google Search Console Integration Ready
 
 #googleanalytics #business #project #content #network
-Blank WordPress Framework SEO Book Pro – v 1.30
+Blank WordPress Framework SEO Book Pro – v 1.92
 #SEO #Book #Pro is Custom #WordPress Template #Framework. I have started the project road map in 2015 and till now only add ideas, documentations, notes, and some testing projects to do the full architecture of the idea SEO Book Pro WordPress Framework. Chapter 1 video includes the creation of the WordPress template and root folders, files to run your customized #WordPress website with SEO Book Pro – Custom WordPress Template Framework.
 Building the skeleton and the structure of the SEO Book Pro Custom WordPress Framework Template
 SEO Book Pro is a strong website framework based on WordPress and is a highly customizable theme. SEO Book Pro is highly secure, SEO friendly, easy to install and set up in your WordPress environment. SEO Book Pro uses the latest standards in the Web Fundamentals to serve clean and Responsive Design to visitors in all cases of using:
