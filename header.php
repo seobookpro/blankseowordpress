@@ -8,4 +8,5 @@
   <title>Blank WordPress SEO Custom Framework</title>
 <?php wp_head();?>
 </head>
-</body>
+<body>
+<main>
